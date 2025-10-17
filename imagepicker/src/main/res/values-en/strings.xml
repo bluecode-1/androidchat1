@@ -1,6 +1,6 @@
 <resources>
     <string name="all_images">All Images</string>
-    <string name="folder_image_count">%1$d images total</string>
+    <string name="folder_image_count">Total: %1$d images</string>
     <string name="preview_image_count">%1$d/%2$d</string>
     <string name="select_limit">Select up to %1$d images</string>
     <string name="complete">Done</string>

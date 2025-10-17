@@ -7,7 +7,7 @@
     <string name="permission_camera_title">%s requests camera permission</string>
     <string name="permission_camera_desc">After selecting Allow in the popup below, you can take photos or videos to send to friends, use video calling, group live streaming and other features. You can also access the camera to take photos and videos in other scenarios.</string>
     <string name="permission_camera_denied_title">Camera permission not enabled</string>
-    <string name="permission_camera_denied_desc">Enable camera permission in Settings - Apps - %s - Permissions to use photo, video, and QR code scanning features normally.</string>
+    <string name="permission_camera_denied_desc">Enable camera permission in Settings - Apps - %s - Permissions to use photo, video, and scanning features normally.</string>
 
     <string name="permission_bluetooth_connect_title">%s requests bluetooth permission</string>
     <string name="permission_bluetooth_connect_desc">After selecting Allow in the popup below, you can use Bluetooth devices for audio/video calls.</string>
