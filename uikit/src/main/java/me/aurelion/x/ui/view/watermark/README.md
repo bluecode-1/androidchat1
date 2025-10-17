@@ -1,5 +1,5 @@
-本目录下的原始代码，拷贝自：
+The original code in this directory is copied from:
 
 https://github.com/AurelionX/WaterMarkView/tree/master
 
-感谢作者
+Thanks to the author
