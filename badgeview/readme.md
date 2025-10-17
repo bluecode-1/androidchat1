@@ -1,5 +1,5 @@
-## 说明
-由于作者不在维护，有时不能正常从仓库下载，故将`aar`直接放在这儿
+## Description
+Since the original author is no longer maintaining it, sometimes it cannot be downloaded normally from the repository, so we put the `aar` directly here.
 
-源码代码在[BadgeView](https://github.com/qstumn/BadgeView)
+Source code is at [BadgeView](https://github.com/qstumn/BadgeView)
 
